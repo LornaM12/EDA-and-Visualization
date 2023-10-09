@@ -5,5 +5,5 @@ Exploratory data analysis is an important step in the data analysis step.
 This is because it ensures that the data is really what it is claimed to be and that there are no obvious errors e.g missing values,
 outliers etc. EDA enhances accuracy, efficiency and reliability of data.
 
-In this example, we will look into different EDA visualization techniques using EDA.
+In this example, we will look into different EDA visualization techniques using (haberman.csv) dataset.
 
