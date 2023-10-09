@@ -1,6 +1,6 @@
 # EDA-and-Visualization
 
-EDA is a data analysis technique that mainly focuses on on understanding the characteristics of a dataset. 
+Exploratory Data Analysis (EDA) is a data analysis technique that mainly focuses on on understanding the characteristics of a dataset. 
 It involves using various statistical and visualization tools to explore data, identify patterns and uncover insights and relationships.
 
 Exploratory data analysis is an important step in the data analysis step. 
